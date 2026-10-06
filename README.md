@@ -12,10 +12,14 @@
   <a href="https://github.com/santhosh-k7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhosh-k7&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/santhosh-k7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Santhoshk_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
 </p>
 
 ---
@@ -93,6 +97,16 @@
 
 ---
 
+<h2 align="center">🧩 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Santhoshk_/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Santhoshk_?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Core Programming Languages</b></p>
@@ -127,26 +141,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-k7&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
 </p>
 
 ---
 
-<h2 align="center">⚡ Contribution Journey</h2>
+<h2 align="center">📬 Let's Connect</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
-
-<p align="center"><i>Whether you want to discuss web development, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+<p align="center"><i>Open to collaboration, internships and full-stack projects — just say hello!</i></p>
 
 <table border="0" align="center">
 <tr>
@@ -158,6 +160,24 @@
   </a>
   <br />
   <sub><b>Follow My Work</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/santhosh-k7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://leetcode.com/u/Santhoshk_/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" height="60" alt="LeetCode" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  <br />
+  <sub><b>DSA Practice</b></sub>
 </td>
 </tr>
 </table>
